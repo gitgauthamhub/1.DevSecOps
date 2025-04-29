@@ -6,7 +6,7 @@ SDLC : Software Development Life Cycle
 Waterfall vs Agile vs DevOps vs DevSecOps vs AiOps
 
 SDLC
--------
+========
 Requirements analysis
 Planning
 Design --> General requirements to technical requirements
@@ -14,8 +14,6 @@ Implementation
 Deployment
 Testing
 Maintaince
-
-Windows vs Linux 
 
 Linux --> Linus Torvalds
 =================
