@@ -28,7 +28,7 @@ Open Source
 Costly
 Not secure must install anti virus
 Slow
-Graphics
+Graphics 
 Frequent restarts
 Tough to update/upgrade
 
