@@ -42,5 +42,5 @@ No need of restarts
 Install or update packages is easy
 Low resources
 
-AWS Accounts
-=================
+Create AWS Accounts
+======================
