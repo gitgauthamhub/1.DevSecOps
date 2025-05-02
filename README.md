@@ -11,7 +11,7 @@ SDLC
 ========
 Requirements analysis-
 Planning-
-Design --> General requirements to technical requirements-
+Design-
 Implementation-
 Deployment-
 Testing-
